@@ -1,0 +1,6 @@
+{
+  "items": [
+    { "date": "2025-10-28", "title": "Dev Log", "body": "Launcher now verifies EXE and fetches news from GitHub." },
+    { "date": "2025-10-20", "title": "Patch Roadmap", "body": "NSFW patch will ship as optional DLC." }
+  ]
+}
