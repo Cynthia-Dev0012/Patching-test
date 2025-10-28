@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "url": "https://cdn.example.com/dlc/nsfw_patch_1.0.0.zip",
-  "sha256": "<zip-sha256>",
+  "sha256": "0000…000",
   "size_bytes": 842000000,
   "files": [
     { "path": "bundles/nsfw_main.bundle", "sha256": "<file1-sha256>" },
